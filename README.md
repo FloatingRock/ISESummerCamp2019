@@ -54,6 +54,10 @@ $ wget -O - https://raspi.tv/download/rpigpio.txt
 ## PWM
 https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/
 
+## gpiozero
+https://gpiozero.readthedocs.io/en/stable/
+https://projects.raspberrypi.org/en/projects/physical-computing
+
 ## Useful tools
 
 ### `gpio`
